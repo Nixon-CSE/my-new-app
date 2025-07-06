@@ -13,7 +13,7 @@ It helps you split expenses between members, track spending, and manage your bud
 | HTML5     | Markup structure                   |
 | CSS3      | Styling and layout                 |
 | JavaScript | App logic and state management    |
-| ExxhangeRate API | Real time currency exchange rate |
+| ExchangeRate API | Real time currency exchange rate |
 | Git & GitHub | Version control and hosting     |
 
 
